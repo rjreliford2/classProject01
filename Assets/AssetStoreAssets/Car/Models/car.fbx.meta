@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: f5393f21ae6863c4a84570b46af140be
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: back_lhs_wheel
+    100002: back_rhs_wheel
+    100004: brake_lights
+    100006: //RootNode
+    100008: front_lhs_wheel
+    100010: front_rhs__wheel
+    100012: JEEP_BODY
+    100014: side
+    400000: back_lhs_wheel
+    400002: back_rhs_wheel
+    400004: brake_lights
+    400006: //RootNode
+    400008: front_lhs_wheel
+    400010: front_rhs__wheel
+    400012: JEEP_BODY
+    400014: side
+    2100000: lambert2
+    2100002: jeepmaterial
+    2300000: back_lhs_wheel
+    2300002: back_rhs_wheel
+    2300004: brake_lights
+    2300006: front_lhs_wheel
+    2300008: front_rhs__wheel
+    2300010: JEEP_BODY
+    2300012: side
+    3300000: back_lhs_wheel
+    3300002: back_rhs_wheel
+    3300004: brake_lights
+    3300006: front_lhs_wheel
+    3300008: front_rhs__wheel
+    3300010: JEEP_BODY
+    3300012: side
+    4300000: brake_lights
+    4300002: front_rhs__wheel
+    4300004: front_lhs_wheel
+    4300006: back_lhs_wheel
+    4300008: back_rhs_wheel
+    4300010: side
+    4300012: JEEP_BODY
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jeepmaterial
+    second: {fileID: 2100000, guid: 902de9255df7a20449b2ec35bd92b30d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: d7fbad36b9c5bc643a2e1d4b42395161, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jeep-texture
+    second: {fileID: 2800000, guid: 73d4131ca705d2640a350a8357b9e8e9, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
